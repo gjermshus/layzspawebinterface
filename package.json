@@ -1,0 +1,14 @@
+{
+    "name": "layzspawebinterface",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "web": "pnpm --filter webinterface start"
+    },
+    "keywords": [],
+    "author": "Anders Gjermshus",
+    "devDependencies": {
+        "@changesets/cli": "^2.25.0"
+    }
+}
